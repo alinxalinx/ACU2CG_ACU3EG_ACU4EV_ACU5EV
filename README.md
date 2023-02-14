@@ -14,7 +14,7 @@ Five Micron DDR4 chips  (four for ACU2CG) are used, in which four DDR4 chips are
 ### Key Features
 
 | name of core board |  ACU2CG              | ACU3EG              | ACU4EV            |  ACU5EV            |
-|--------------------|----------------------|--- -----------------|-------------------|--------------------|
+|--------------------|----------------------|---------------------|-------------------|--------------------|
 | ZYNQ               |  XCZU2CG-1SFVC784I   |  XCZU3EG-1SFVC784I  | XCZU4EV-1SFVC784I | XCZU5EV-2SFVC784I  |
 | GPU+VCU            | no                   | no                  | yes               | yes                |
 | size               | 80x60mm              | 80x60mm             | 80x60mm           | 80x60mm            |
