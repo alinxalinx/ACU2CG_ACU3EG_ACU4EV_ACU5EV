@@ -36,6 +36,10 @@
 
 ***
 
+## 相关载板开发板
+
+1. https://github.com/alinxalinx/AXU2CG-E_AXU3EG_AXU4EV-E_AXU5EV-E
+2. https://github.com/alinxalinx/AXU4EV-P_AXU5EV-P
 
 ## 官方网站
 
